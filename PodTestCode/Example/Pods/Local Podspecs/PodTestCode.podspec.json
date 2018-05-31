@@ -1,0 +1,22 @@
+{
+  "name": "PodTestCode",
+  "version": "0.1.0",
+  "summary": "A short description of PodTestCode.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/pressureless/PodTestCode",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pressureless": "liyong16@baidu.com"
+  },
+  "source": {
+    "git": "https://github.com/pressureless/PodTestCode.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PodTestCode/Classes/**/*"
+}
